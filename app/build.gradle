@@ -15,7 +15,7 @@ static def appBaseName() {
 android {
     compileSdkVersion 25
     defaultConfig {
-        applicationId "com.kpgn.weathermap"
+        applicationId "com.kpgn.androidtemplate"
         minSdkVersion 21
         targetSdkVersion 25
         versionCode appVersionCode()
