@@ -1,6 +1,6 @@
 # AndroidTemplate
 
-> Template project used for Android development.
+> Template project which can be used for Android development. Contains app module and basic project structure.
 
 ### Modify Below Snippet: 
 
