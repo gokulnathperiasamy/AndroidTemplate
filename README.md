@@ -5,6 +5,7 @@
 ### Modify Below Snippet: 
 
 - Edit `applicationId "com.kpgn.androidtemplate"` in [`build.gradle`](https://github.com/gokulnathperiasamy/AndroidTemplate/blob/master/app/build.gradle).
+- Change package structure.
 - Change `appBaseName()` in [`build.gradle`](https://github.com/gokulnathperiasamy/AndroidTemplate/blob/master/app/build.gradle).
 - Change package name `com.kpgn.androidtemplate` accordingly.
 
